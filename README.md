@@ -61,5 +61,6 @@ Currently I have written different scripts for -
 <p>Drain R3</p>
 <p>Drain R2</p>
 
-<p>Working on merging into 1 script which provides options for user to choose.<p>
+<p>I created different scripts, have to merge into 1 script which provides options for user to choose.<p>
+	<p> Final.py does that job </p>
 
