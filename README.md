@@ -23,10 +23,10 @@ All interfaces have been advertised in OSPF.
 And are reachable.
 
 <strong>USAGE:</strong>
-After you run the script you can choose to drain R2 or R3, each time you choose, to see results you must run undrain before you choose for the second time.
+After you run the script you can choose to drain R2 or R3,post-that you must choose undrain to see results before you choose for the second time.
 
 <strong>UNDRAIN</strong>
-This resumes the traffic direction to back it was before with all the interfaces with equal cost.
+This resumes the traffic direction as it was before with all the interfaces back to equal cost.
 When we undrain traffic on all devices, 
 Traceroute to both R1 interfaces from R4 show different paths.
 This should probably be chosen as first option to try and see the direction of traffic.
