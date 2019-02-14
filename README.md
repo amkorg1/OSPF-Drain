@@ -4,7 +4,6 @@
 In a production environment we may require draining traffic away from a particular device to undertake maintenance on that device and undrain traffic to return to before.
 In OSPF network - For maintenance, we can divert direction of traffic away from router and later resume. 
 We can automate drainage of a router and then resume traffic after completion
-This can be implemented in GNS as done here or on real routers in network, in the same way.
 
 <strong>Here I have implemented the same idea in an OSPF network in GNS3 with VM.</strong>
 
